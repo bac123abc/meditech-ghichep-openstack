@@ -59,7 +59,7 @@ Theo lý thuyết, Nova hỗ trợ tất cả các database mà SQLAlchemy suppo
 
 <a name="architecture"></a>
 ## 3. Kiến trúc của Nova
-
+hihi
 <img src="http://i.imgur.com/SWgKmDp.png">
 
 - DB: sql database để lưu trữ dữ liệu.
